@@ -1,8 +1,8 @@
 # Superhero_Hunter
 Hosted Link : https://amansuperherohunter.netlify.app/
 
-Here in this project you can search your desired Marvel superheroes and villians , you can add them to favourites list also.
-
+# Description
+This is a web application built using JavaScript, HTML, and CSS that allows users to search for their favorite Marvel superheroes and view their detailed information. The app also allows users to add characters to their favorites list for easy access.
 Marvel superhero api is used for json data.
 
 Vanilla Javascript is used with these methods named below
@@ -18,6 +18,16 @@ localstorage
 used array to store data
 
 dom
+
+# Dependencies
+Javascript
+HTML
+CSS
+Marvel API
+
+# Note
+The app is using a free developer API key from Marvel, thus the usage of the app is limited by the terms of service of Marvel's API.
+# Authorization
 
 Contact For any questions or inquiries, please contact
 
